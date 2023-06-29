@@ -1,0 +1,8 @@
+
+https://www.geeksforgeeks.org/linear-block-code-using-matlab/
+
+http://landofprogramming.blogspot.com/2014/10/matlab-code-to-find-syndrome-for-each.html
+
+https://www.researchgate.net/post/What_is_a_Matlab_code_for_2_dimensional_parity_model_in_forward_error_correction
+
+https://www.mathworks.com/help/comm/error-detection-and-correction.html?category=error-detection-and-correction&s_tid=CRUX_topnav
